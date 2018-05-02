@@ -1,5 +1,5 @@
 # 爬虫知识框架
-![爬虫框架](E:/坚果云同步/atom书籍/爬虫知识/res/爬虫知识.png)
+[![爬虫知识.png](https://i.loli.net/2018/05/02/5ae91e01002f3.png)](https://i.loli.net/2018/05/02/5ae91e01002f3.png)
 
 # 一般爬虫的流程图
 ```flow

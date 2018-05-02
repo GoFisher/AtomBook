@@ -1,5 +1,5 @@
 ## Exporter数据导出
-![爬虫框架](E:/坚果云同步/atom书籍/爬虫知识/res/Exporter导出数据.png)
+[![Exporter导出数据.png](https://i.loli.net/2018/05/02/5ae91e00da77e.png)](https://i.loli.net/2018/05/02/5ae91e00da77e.png)
 ### 1. 内置的数据导出器
 **在Scrapy中，负责导出数据的组件被称为Exporter(导出器)，scrapy内部实现多个Exporter，每个Exporter实现一种数据格式的导出，总共支持6中数据格式，前4种是极为常见的文本数据格式，而后两种是python特有的，但是可以看出并没有txt和excel格式的导出器,在scrapy.settings.default_settings.py可以查看**
 ```python

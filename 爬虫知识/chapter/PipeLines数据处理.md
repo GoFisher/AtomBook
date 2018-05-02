@@ -1,5 +1,5 @@
 ## PipeLines数据处理
-![爬虫框架](E:/坚果云同步/atom书籍/爬虫知识/res/处理数据.png)
+[![处理数据.png](https://i.loli.net/2018/05/02/5ae91e00e7e62.png)](https://i.loli.net/2018/05/02/5ae91e00e7e62.png)
 
 ### 1.实现Item PipeLine
   **在创建一个Scrapy项目时，会自动生成一个pipelines.py文件，它用来放置用户自定义的Item Pipeline。**
